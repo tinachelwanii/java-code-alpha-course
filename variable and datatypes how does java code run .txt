@@ -1,0 +1,9 @@
+how does java code run 
+source code .java - compiler - byte class.class - java virtual machine (jvm) - native code
+
+java is a portable language 
+c++ is not a portable language 
+
+code run has 2 stages 
+- compilation
+- execution
