@@ -1,0 +1,17 @@
+TYPES OF OPERATORS 
+
+operators in java
+symbols that tell compiler to perform some operation
+sum = a + b
+a,b = operand
++ = operator
+operation jo perform hora = addition 
+
+
+types of operators 
+arithmetic operators (binary/unary/ternary)
+relational operators
+logical operators
+bitwise operators (study in bit manipulation) 
+assignment operators
+

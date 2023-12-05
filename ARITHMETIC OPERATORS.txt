@@ -1,0 +1,14 @@
+ARITHMETIC OPERATORS
+
+BINARY               
+ |                     
+2 operands         
++ (10+5=15)
+- (10-5=5)
+* (10*5=50)
+/ (10/5=2)
+% - modulo
+  (10%5=0)
+
+
+

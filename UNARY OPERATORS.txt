@@ -1,0 +1,35 @@
+UNARY OPERATORS
+
+UNARY
+++ = A=A+1 = A++ OR ++A   = increment operator
+
+-- = a=a-1 = a-- OR --a   = decrement operator
+
+Increment operator 
+It is of two types - 
+-pre increment = pehle
+ ++a
+rule - 
+value ko change krega pehle
+value use hogi
+
+
+- post increment = baadme
+  a++
+  rule - 
+  value use karenge
+  value change karenge
+
+Decrement operator
+It is also of two types - 
+- pre decrement 
+  --a
+rule - 
+value ko change krega pehle
+value use hogi
+
+-post decrement
+a--
+rule- 
+value use karenge
+value change karenge
