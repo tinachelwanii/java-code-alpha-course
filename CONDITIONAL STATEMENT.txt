@@ -1,0 +1,28 @@
+CONDITIONAL STATEMENT
+if else video
+
+paranthesis ()
+curly brackets/braces {}
+
+
+if, else
+int age = 22;
+if(age >= 18) {
+  syso("vote");
+}
+else {
+  syso("not adult");
+}
+   
+
+else if
+
+
+
+ternary operator
+
+
+
+switch
+
+

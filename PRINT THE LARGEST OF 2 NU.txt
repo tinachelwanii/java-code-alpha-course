@@ -1,0 +1,14 @@
+conditional statements
+VIDEO-2 = PRINT THE LARGEST OF 2 NUMBERS
+A=1, B=3
+
+A>=B - if -TRUE - PRINT"A"
+    - else -FALSE- print"B"
+
+code 
+if(A >= B) {
+   syso("A");
+}
+else {
+   syso("B")
+}
