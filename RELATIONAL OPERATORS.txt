@@ -1,0 +1,8 @@
+RELATIONAL OPERATORS
+
+== to check whether values are equal or not 
+!= not equal to (inequality)
+>
+<
+>=
+<=

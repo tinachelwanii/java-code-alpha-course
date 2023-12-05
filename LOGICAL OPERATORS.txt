@@ -1,0 +1,27 @@
+LOGICAL OPERATORS
+
+&& (Logical AND)
+
+Answer   Statement1   Statement2
+  T          T             T
+  F          T             F
+  F          F             T
+  F          F             F 
+
+|| (Logical OR)
+
+Answer   Statement1   Statement2
+  T         T             T
+  T         T             F
+  T         F             T
+  F         F             F 
+
+
+! (Logical NOT)
+
+true will become false
+false will become true
+
+Answer   Statement
+F          T
+T          F
