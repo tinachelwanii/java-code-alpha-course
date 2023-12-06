@@ -1,0 +1,24 @@
+sum of first n natural numbers 
+//loops
+
+dry run
+
+int n             
+int sum = 0; 
+
+int i = 1;
+while (i <= n) {
+   sum += i;
+   i++;
+}
+print
+
+sum = 0
+i=1
+n=5
+sum = 0 + 1
+sum = 1 + 2 = 3
+sum = 3 + 3 = 6
+sum = 6 + 4 = 10
+sum = 10 + 5 = 15
+15
