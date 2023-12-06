@@ -1,0 +1,13 @@
+Conditional Statement
+
+PRINT THE LARGEST OF 3 NUMBERS VIDEO
+
+A =1,B=3,C=6
+
+if((A >=B) && (A >= C)) {
+    print("A")
+}
+else if (B >= C) {
+    print("B)
+}
+else print("C")

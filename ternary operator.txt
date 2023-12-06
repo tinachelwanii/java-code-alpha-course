@@ -1,0 +1,4 @@
+ternary operator
+
+variable = condition? statement1 : statement2;
+: means if not (nhi toh)
