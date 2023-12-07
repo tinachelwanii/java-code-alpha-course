@@ -1,3 +1,5 @@
+//loops
+//do while video
 import java.util.*;
 
 public class loops10 {
